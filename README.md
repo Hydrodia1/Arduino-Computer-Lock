@@ -46,8 +46,8 @@ The generated passcode will automatically synchronize with your Arduino Cloud ac
 
 Upload the following sketches:
 
-CAPSTONE-UNOR4-Slave → Arduino Uno R4
-CAPSTONE-NANO-Master → Arduino Nano Every
+• CAPSTONE-UNOR4-Slave → Arduino Uno R4
+• CAPSTONE-NANO-Master → Arduino Nano Every
 
 5. Assemble the Hardware
 
