@@ -79,7 +79,7 @@ Upload each sketch to its corresponding Arduino.
 
 | Sketch        | Board              |
 | ------------- | ------------------ |
-| `UNOR4-Slave` | Arduino Uno R4     |
+| `UNO-R4-Slave` | Arduino Uno R4     |
 | `NANO-Master` | Arduino Nano Every |
 
 ---
