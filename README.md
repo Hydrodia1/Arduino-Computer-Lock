@@ -8,7 +8,7 @@ A hardware-based computer security lock built as a senior capstone project. The 
 
 * 🔐 Password-protected computer power button
 * 💡 LED status indicators
-* 🔄 Communication between the Arduino Uno R4 and Arduino Nano Every using I²C
+* 🔄 Communication between the Arduino Uno R4 and Arduino Nano Every using I2C
 * 🔑 Randomly generated passcode that updates every hour
 * 📱 Passcode synchronization through Arduino Cloud
 
